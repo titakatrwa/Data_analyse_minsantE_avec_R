@@ -1,4 +1,4 @@
-# Projet R — Analyse Santé au Cameroun
+# Projet R — Analyse de donnée MinSanté 
 
 Ce projet transforme `dirty_health_data.csv` en données propres, indicateurs métier,
 graphiques et dashboard Shiny.
